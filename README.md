@@ -1,4 +1,4 @@
-# Cursos-DS
+# Indicação de cursos de ciência de dados das AI Girls
 Indicação da comunidade sobre cursos de ciência de dados.
 
 ## Introdução
