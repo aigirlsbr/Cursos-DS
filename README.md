@@ -1,8 +1,12 @@
 # Indicação de cursos de ciência de dados das AI Girls
-Indicação da comunidade sobre cursos de ciência de dados.
+A fim de trazer mais mulheres para a área de ciência de dados a comunidade decidiu reunir alguns cursos indicados pelas mulheres da comunidade sobre cursos na área.
+
+![](https://media4.giphy.com/media/JSf51ChnoltKM/giphy.gif?cid=ecf05e47d8i0cc4mjiijcfcfjlxciwdhbgmys26bbivla7wd&rid=giphy.gif)
 
 ## Introdução
 [Alura](https://www.alura.com.br/cursos-online-data-science/data-science) [Pago]
+
+[Trilha do Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza) [Gratuito]
 
 [Intro to Data Analysis - Udacity](https://www.classcentral.com/course/udacity-intro-to-data-analysis-4937) [Gratuito]
 
