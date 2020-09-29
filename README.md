@@ -40,7 +40,13 @@ A fim de trazer mais mulheres para a área de ciência de dados a comunidade dec
 
 [Aprendizagem de máquina avançado - Coursera](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=OyHlmBp2G0c&ranSiteID=OyHlmBp2G0c-UXzBE4hkUH..cI.OVXdJJg&siteID=OyHlmBp2G0c-UXzBE4hkUH..cI.OVXdJJg&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=OyHlmBp2G0c) [Gratuito- paga só o certificado]
 
+[Roadmap MLOps](https://github.com/visenger/awesome-mlops) [Gratuito]
+
+[Production Machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+
 [Deep learning - Coursera](https://www.coursera.org/specializations/deep-learning) [Gratuito- paga só o certificado]
+
+[Full Stack Deep Learning](https://course.fullstackdeeplearning.com/) [Gratuito]
 
 [Tensorflow na prática](https://www.coursera.org/professional-certificates/tensorflow-in-practice) [Gratuito- paga só o certificado]
 
