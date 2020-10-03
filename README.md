@@ -1,7 +1,7 @@
 # Indicação de cursos de ciência de dados das AI Girls
 A fim de trazer mais mulheres para a área de ciência de dados a comunidade decidiu reunir alguns cursos indicados pelas mulheres da comunidade sobre cursos na área.
 
-![](https://media4.giphy.com/media/JSf51ChnoltKM/giphy.gif?cid=ecf05e47d8i0cc4mjiijcfcfjlxciwdhbgmys26bbivla7wd&rid=giphy.gif)
+![](logo.png)
 
 ## Introdução
 [Python - Coursera](https://www.coursera.org/specializations/python) [Gratuito- paga só o certificado]
