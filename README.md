@@ -2,7 +2,7 @@
 
 ![](logo.png)
 
-A fim de trazer mais mulheres para a área de ciência de dados a comunidade decidiu reunir alguns cursos indicados pelas mulheres da comunidade sobre cursos na área.
+A fim de trazer mais mulheres para a área de ciência de dados a comunidade decidiu reunir alguns cursos indicados pelas participantes da comunidade.
 
 ## Introdução
 [Python - Coursera](https://www.coursera.org/specializations/python) [Gratuito- paga só o certificado]
